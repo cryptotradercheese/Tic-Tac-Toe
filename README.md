@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
- Tic tac toe game for two players
+ Tic tac toe for two players
